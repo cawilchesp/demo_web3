@@ -5,7 +5,7 @@
 
 <h4 align="center">Best practices to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)</h4>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/atapas/model-repo/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/atapas/model-repo?style=flat-square" alt="tryshape licence" />
 </a>
@@ -149,7 +149,7 @@ We all need support and motivation. `model-repo` is not an exception. If you fou
 
 <h3 align="center">
 A ⭐️ to <b>Model Repo</b> is must as a motivation booster.
-</h3>
+</h3> -->
 
   
 
